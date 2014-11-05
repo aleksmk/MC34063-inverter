@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = вто, 04 ное 2014 21:42:50 CET
+
+BeginCmp
+TimeStamp = /5458FACB;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = C2V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FD61;
+Reference = C2;
+ValeurCmp = 1000uF;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FC07;
+Reference = C3;
+ValeurCmp = 1n5;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FD18;
+Reference = D1;
+ValeurCmp = 1N5819;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FC75;
+Reference = L1;
+ValeurCmp = 100uH;
+IdModule  = INDUCTOR_V;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FADA;
+Reference = P1;
+ValeurCmp = Vin;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FDC1;
+Reference = P2;
+ValeurCmp = Vout;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FBBB;
+Reference = R1;
+ValeurCmp = 0R22;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FE31;
+Reference = R2;
+ValeurCmp = 1k5;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458FE98;
+Reference = R3;
+ValeurCmp = 13k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5458F12C;
+Reference = U1;
+ValeurCmp = MC34063;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+EndListe
